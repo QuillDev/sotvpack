@@ -2,22 +2,20 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [192, 192],
 	"textures": {
-		"0": "item/carrot_on_a_stick/warden2"
-
+		"0": "item/warden/warden2"
 	},
 	"elements": [
 		{
-			"name": "L_ear",
-			"from": [15.5, 0, 8.25],
-			"to": [0.5, 15, 8.25],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-19.5, 24.5, -3.75]},
+			"name": "left_arm",
+			"from": [2, 0, 2],
+			"to": [14, 20.5, 14],
 			"faces": {
-				"north": {"uv": [16, 0.08333, 14.75, 1.33333], "texture": "#0"},
-				"east": {"uv": [16, 0.08333, 16, 1.33333], "texture": "#0"},
-				"south": {"uv": [14.75, 0.08333, 13.5, 1.33333], "texture": "#0"},
-				"west": {"uv": [14.75, 0.08333, 14.75, 1.33333], "texture": "#0"},
-				"up": {"uv": [14.75, 0.08333, 16, 0.08333], "texture": "#0"},
-				"down": {"uv": [13.5, 0.08333, 14.75, 0.08333], "texture": "#0"}
+				"north": {"uv": [13, 8.25, 14, 9.91667], "texture": "#0"},
+				"east": {"uv": [12, 8.25, 13, 9.91667], "texture": "#0"},
+				"south": {"uv": [15, 8.25, 16, 9.91667], "texture": "#0"},
+				"west": {"uv": [14, 8.25, 15, 9.91667], "texture": "#0"},
+				"up": {"uv": [14, 8.25, 13, 7.25], "texture": "#0"},
+				"down": {"uv": [15, 7.25, 14, 8.25], "texture": "#0"}
 			}
 		}
 	],
@@ -43,7 +41,7 @@
 					"name": "L_ear",
 					"origin": [-12, 64.5, -4.5],
 					"color": 0,
-					"children": [0]
+					"children": []
 				}
 			]
 		},
@@ -57,7 +55,7 @@
 			"name": "left_arm",
 			"origin": [0, 46.5, 0],
 			"color": 0,
-			"children": []
+			"children": [0]
 		},
 		{
 			"name": "right_leg",
