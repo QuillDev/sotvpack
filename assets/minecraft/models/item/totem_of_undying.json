@@ -7,7 +7,7 @@
 		{"predicate": {"custom_model_data": 0}, "model": "custom/shards/shard"},
 		{"predicate": {"custom_model_data": 1}, "model": "custom/shards/shard_blue"},
 		{"predicate": {"custom_model_data": 2}, "model": "custom/shards/shard_green"},
-		{"predicate": {"custom_model_data": 3}, "model": "custom/shards/shard_orange"},
+		{"predicate": {"custom_model_data": 3}, "model": "custom/shards/shard_yellow"},
 		{"predicate": {"custom_model_data": 4}, "model": "custom/shards/shard_purple"},
 		{"predicate": {"custom_model_data": 5}, "model": "custom/shards/shard_red"}
 	]
