@@ -9,8 +9,8 @@ This resource pack uses the first 2240 characters of the Private Use Area (PUA).
 <>: Blank Space
 <>: FailFish
 <>: Sadge
-<>: Polished Granite
-<>: Diorite
+<>: OMEGALUL
+<>: Clueless
 <>: Polished Diorite
 <>: Andesite
 <>: Polished Andesite
